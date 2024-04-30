@@ -1,0 +1,5 @@
+{
+  "image": "ghcr.io/rsm-hcd/devcontainer-templates/dotnet-node-mssql:0.1.0",
+  "features": {
+  }
+}
